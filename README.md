@@ -9,7 +9,7 @@
   <em>Simplifying attendance management through digital solutions.</em>
 </p>
 
-Developed during an internship at [Eurafric Maroc]((https://www.eurafric-information.com/)).
+Developed during an internship at [Eurafric Maroc](https://www.eurafric-information.com/).
 
 ![Backend](https://img.shields.io/badge/Backend-Spring_Boot-355B82?style=flat-square)
 ![Frontend](https://img.shields.io/badge/Frontend-React.js-355B82?style=flat-square)
